@@ -1,3 +1,10 @@
+# MOVIE-APP
+
+This is a app that use the api from http://www.omdbapi.com/ to get the films data.
+You can search for films and add or remove them from favorites.
+
+To make this repositori work you need to create an .env with the APIKEY from http://www.omdbapi.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
